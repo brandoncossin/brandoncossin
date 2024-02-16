@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brandon Cossin</h1>
 <h3 align="center">Cloud Based Full Stack Developer</h3>
+<h5 align="center">I have expertise in React.JS for front end development and integrations. Recently I have begun working and learning with Azure AI</h35>
 
-- 🌱 I’m currently learning: **Azure Associate Developer Certification**
+- 🌱 I’m currently learning: **Azure AI Associate Certification**
 
 - 👨‍💻My projects are available at: [brandoncossin.com](brandoncossin.com)
 
